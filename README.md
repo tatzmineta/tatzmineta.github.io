@@ -1,5 +1,5 @@
-# taloniana.github.io
+# avitim.github.io
 ポートフォリオ
 
 * URL
-  * https://taloniana.github.io/
+  * https://avitim.github.io/
