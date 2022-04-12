@@ -1,5 +1,5 @@
-# avitim.github.io
+# avimigo.github.io
 ポートフォリオ
 
 * URL
-  * https://avitim.github.io/
+  * https://avimigo.github.io/
