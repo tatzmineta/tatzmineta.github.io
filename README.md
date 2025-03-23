@@ -2,4 +2,4 @@
 ポートフォリオ
 
 * URL
-  * https://avimigo.github.io/
+  * https://tatzmineta.github.io/
